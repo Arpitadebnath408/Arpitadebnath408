@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="Arpitadebnath408" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Arpitadebnath408" alt="Arpitadebnath408" /> </p>
 
 ### <h1 align="center">Hello, I am *Arpita* 👋✌️</h1>
 
@@ -38,7 +38,7 @@
 
 <p align="center">
 <a href="https://github.com/Arpitadebnath408">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShawonBarman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arpitadebnath408&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arpitadebnath408&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
